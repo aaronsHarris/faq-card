@@ -1,18 +1,18 @@
 export const faqs = [
   {
-    q: "How many team members can I invie?",
+    q: "What Websites do you make?",
     a: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, ad",
   },
   {
-    q: "What is the maximum file upload size?",
+    q: "Will there be additional costs?",
     a: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minima unde, cumque tempora libero porro officia!",
   },
   {
-    q: "How do I reset my password?",
+    q: "Do you help with marketing?",
     a: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae cupiditate rerum et.",
   },
   {
-    q: "Can I cancel my subscription?",
+    q: "Do you provide design examples?",
     a: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
   },
   {

@@ -1,31 +1,24 @@
-import styled from 'styled-components'
+import styled from "styled-components";
 
 export const Container = styled.div`
   position: relative;
   display: flex;
   align-items: center;
   flex-direction: column;
-  width: 315px;
   border-radius: 2rem;
   background-color: var(--white);
-  box-shadow: 0.5rem 2.25rem 2.25rem 0.1rem var(--soft-red);
+  box-shadow: 1rem 1.25rem 2.25rem 0.1rem var(--gray);
 
-  .image {
+  .image-container {
     width: 240px;
     height: 12rem;
     position: relative;
   }
 
   .mobile-image {
-    .woman {
+    .brod-dog {
       position: absolute;
       top: -9rem;
-      right: 0;
-    }
-
-    .pattern {
-      position: absolute;
-      top: -1rem;
       right: 0;
     }
   }
@@ -43,7 +36,7 @@ export const Container = styled.div`
       padding-bottom: 3rem;
       font-size: 2.5rem;
       letter-spacing: 0.1rem;
-      color: var(--desaturated-blue);
+      color: var(--black);
       text-align: center;
     }
   }
@@ -54,7 +47,7 @@ export const Container = styled.div`
     flex-direction: row;
     align-items: start;
 
-    .image {
+    .image-container {
       width: 50%;
       height: 100%;
     }
