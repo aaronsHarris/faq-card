@@ -33,7 +33,6 @@ const Accordion = () => {
             </div>
             <div className="faq">
             <h1 className="title">FAQ</h1>
-            <button>contact us</button>
         {Dropdowns}
       </div>
     </Container>
