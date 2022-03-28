@@ -1,4 +1,4 @@
-# faq-page
+# faq-card
 
 ### Overview
 FAQ accordion using React with responsive design.

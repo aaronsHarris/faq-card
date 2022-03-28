@@ -28,11 +28,11 @@ const Accordion = () => {
         <div className="desktop-image">
           <div>
             <img src={BrodDog} className="brod-dog" alt="Brod Solutions Dog" />
-            </div>
-            </div>
-            </div>
-            <div className="faq">
-            <h1 className="title">FAQ</h1>
+          </div>
+        </div>
+      </div>
+      <div className="faq">
+        <h1 className="title">FAQ</h1>
         {Dropdowns}
       </div>
     </Container>
